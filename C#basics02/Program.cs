@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            //ans.Q1
+            #region printclassdata
+            //Book book1 = new Book();
+            //book1.title = "The Great Gatsby";
+            //book1.pages = 180;
+            //Console.WriteLine($"Book: {book1.title}, Pages: {book1.pages}"); 
+            #endregion
         }
     }
 }
