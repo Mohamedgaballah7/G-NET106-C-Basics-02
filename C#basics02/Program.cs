@@ -22,6 +22,12 @@
             //Console.WriteLine(book1.GetHashCode());
             //Console.WriteLine(book1.GetType()); 
             #endregion
+
+            //ans.q3
+            /*
+             Compile-time error — you can't put text (string) into an int variable.
+             int pages = 464;
+            */
         }
     }
 }
