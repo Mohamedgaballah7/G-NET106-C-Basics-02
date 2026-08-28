@@ -84,6 +84,16 @@
             //string pagesText = pages.ToString();
             //Console.WriteLine(pagesText.GetType()); 
             #endregion
+
+            //ans.q10
+            #region boxing&unboxing
+            //int copies = 15;
+            //object objCopies = copies; // Boxing
+            //Console.WriteLine(objCopies);
+
+            //int copies2 = (int)objCopies; // Unboxing
+            //Console.WriteLine(copies2); 
+            #endregion
         }
     }
 }
