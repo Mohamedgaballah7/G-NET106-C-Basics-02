@@ -28,6 +28,22 @@
              Compile-time error — you can't put text (string) into an int variable.
              int pages = 464;
             */
+
+            //ans.q4
+            #region trydividebyzero()
+            //try
+            //{
+            //    int x=10;
+            //    int y=0;
+            //    double result = x / y;
+
+            //}
+            //catch (Exception ex)
+            //{
+            //    Console.WriteLine("Cannot divide by zero");
+            //}
+            //Console.WriteLine("Done"); 
+            #endregion
         }
     }
 }
