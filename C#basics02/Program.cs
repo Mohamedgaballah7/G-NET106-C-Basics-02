@@ -11,6 +11,17 @@
             //book1.pages = 180;
             //Console.WriteLine($"Book: {book1.title}, Pages: {book1.pages}"); 
             #endregion
+
+            //ans.q2
+            #region tostring()equals()hashcode()gettype()
+            //Book book1 = new Book();
+            //book1.title = "the great gatsby";
+            //book1.pages = 180;
+            //Console.WriteLine(book1.ToString());
+            //Console.WriteLine(book1.Equals(book1));
+            //Console.WriteLine(book1.GetHashCode());
+            //Console.WriteLine(book1.GetType()); 
+            #endregion
         }
     }
 }
