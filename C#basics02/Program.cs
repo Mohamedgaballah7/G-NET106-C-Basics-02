@@ -44,6 +44,13 @@
             //}
             //Console.WriteLine("Done"); 
             #endregion
+
+            //ans.q5
+            #region inttodouble
+            //int pages = 300;
+            //double doublePages = pages;
+            //Console.WriteLine(doublePages); 
+            #endregion
         }
     }
 }
