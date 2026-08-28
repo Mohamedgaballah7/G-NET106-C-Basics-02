@@ -77,6 +77,13 @@
             //    Console.WriteLine(badValue);
             //}else { Console.WriteLine("Invalid number"); } 
             #endregion
+
+            //ans.q9
+            #region intTostring
+            //int pages = 464;
+            //string pagesText = pages.ToString();
+            //Console.WriteLine(pagesText.GetType()); 
+            #endregion
         }
     }
 }
